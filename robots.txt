@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.bizynq.in/sitemap.xml
+Sitemap: https://bizynq.netlify.app/sitemap.xml
