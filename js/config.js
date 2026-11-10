@@ -5,7 +5,7 @@
    ========================================================== */
 window.BIZYNQ = {
   whatsapp: "918506064442",   // digits only with country code, e.g. "919XXXXXXXXX"
-  phone: "+91 92201 68606",      // display format, e.g. "+91 98XXX XXXXX"
+  phone: "+91 8506064442",      // display format, e.g. "+91 98XXX XXXXX"
   email: "bizynq@gmail.com",      // e.g. "hello@yourdomain.com"
   address: "UG-75, Ansal Plaza, Avantika T-Point, Chiranjiv Vihar, Shastri Nagar, Ghaziabad, Uttar Pradesh 201002",    // e.g. "Sector XX, Gurgaon, Haryana"
   hours: "",      // e.g. "Mon-Sat, 10:00-18:00"
